@@ -1,0 +1,327 @@
+0a1
+> {"v":"5.7.8","fr":24,"ip":0,"op":72,"w":2472,"h":5352,"nm":"3Second_MAIN_Welcome","ddd":0,"assets":[],"layers":[{"ddd":0,"ind":1,"ty":3,"nm":"Null 60","sr":1,"ks":{"o":{"a":0,"k":0,"ix":11},"r":{"a":0,"k":0,"ix":10},"p":{"a":0,"k":[1508,1364,0],"ix":2,"l":2},"a":{"a":0,"k":[0,0,0],"ix":1,"l":2},"s":{"a":0,"k":[100,100,100],"ix":6,"l":2}},"ao":0,"ip":0,"op":240,"st":0,"bm":0},{"ddd":0,"ind":2,"ty":4,"nm":"PinkFlower","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":1,"k":[{"i":{"x":[0.833],"y":[0.833]},"o":{"x":[0.167],"y":[0.167]},"t":0,"s":[0]},{"t":72,"s":[56]}],"ix":10},"p":{"a":1,"k":[{"i":{"x":0.07,"y":0.986},"o":{"x":0.167,"y":0.167},"t":0,"s":[1505.832,1379.455,0],"to":[0,0,0],"ti":[0,0,0]},{"i":{"x":0.833,"y":0.833},"o":{"x":0.773,"y":0.01},"t":38,"s":[1505.832,575,0],"to":[0,0,0],"ti":[0,0,0]},{"t":72,"s":[1505.832,1379.455,0]}],"ix":2,"l":2},"a":{"a":0,"k":[-3514.717,-358.642,0],"ix":1,"l":2},"s":{"a":0,"k":[100,100,100],"ix":6,"l":2}},"ao":0,"shapes":[{"ty":"gr","it":[{"ind":0,"ty":"sh","ix":1,"ks":{"a":0,"k":{"i":[[75.615,-96.908],[89.338,-70.276],[111.99,-50.668],[111.764,-20.709],[122.709,7.18],[108.586,33.602],[105.316,63.383],[80.533,80.216],[63.797,105.066],[34.03,108.453],[7.663,122.679],[-20.269,111.845],[-50.226,112.189],[-69.924,89.614],[-96.61,75.997],[-103.56,46.854],[-120.861,22.395],[-113.472,-6.639],[-117.425,-36.337],[-97.389,-58.612],[-87.087,-86.745],[-58.996,-97.158],[-36.8,-117.281],[-7.086,-113.445],[21.918,-120.948],[46.446,-103.744]],"o":[[-75.615,96.909],[-89.338,70.276],[-111.99,50.668],[-111.764,20.709],[-122.709,-7.18],[-108.586,-33.602],[-105.316,-63.383],[-80.533,-80.216],[-63.797,-105.066],[-34.03,-108.453],[-7.663,-122.679],[20.269,-111.845],[50.226,-112.188],[69.924,-89.614],[96.61,-75.997],[103.56,-46.854],[120.861,-22.395],[113.472,6.64],[117.425,36.337],[97.389,58.612],[87.088,86.745],[58.995,97.158],[36.8,117.281],[7.087,113.445],[-21.918,120.948],[-46.446,103.744]],"v":[[733.209,572.105],[531.711,675.932],[383.354,847.313],[156.685,845.606],[-54.323,928.412],[-254.235,821.562],[-479.555,796.823],[-606.913,609.309],[-794.927,482.691],[-820.554,257.47],[-928.191,57.981],[-846.217,-153.353],[-848.817,-380.013],[-678.021,-529.044],[-574.99,-730.949],[-354.499,-783.537],[-169.439,-914.435],[50.234,-858.532],[274.928,-888.434],[443.46,-736.847],[656.313,-658.903],[735.094,-446.359],[887.344,-278.426],[858.327,-53.616],[915.095,165.835],[784.928,351.409]],"c":true},"ix":2},"nm":"Path 1","mn":"ADBE Vector Shape - Group","hd":false},{"ty":"st","c":{"a":0,"k":[0.839215686275,0.439215686275,0.388235294118,1],"ix":3},"o":{"a":0,"k":100,"ix":4},"w":{"a":0,"k":4,"ix":5},"lc":1,"lj":1,"ml":4,"bm":0,"nm":"Stroke 1","mn":"ADBE Vector Graphic - Stroke","hd":false},{"ty":"fl","c":{"a":0,"k":[0.839215746113,0.439215716194,0.388235324037,1],"ix":4},"o":{"a":0,"k":100,"ix":5},"r":1,"bm":0,"nm":"Fill 1","mn":"ADBE Vector Graphic - Fill","hd":true},{"ty":"tr","p":{"a":0,"k":[-3509.952,-363.731],"ix":2},"a":{"a":0,"k":[0,0],"ix":1},"s":{"a":0,"k":[100,100],"ix":3},"r":{"a":0,"k":0,"ix":6},"o":{"a":0,"k":100,"ix":7},"sk":{"a":0,"k":0,"ix":4},"sa":{"a":0,"k":0,"ix":5},"nm":"Transform"}],"nm":"Polystar 1","np":3,"cix":2,"bm":0,"ix":1,"mn":"ADBE Vector Group","hd":false}],"ip":0,"op":288,"st":0,"bm":0},{"ddd":0,"ind":3,"ty":4,"nm":"Ellipse_Bottom","sr":1,"ks":{"o":{"a":0,"k":100,"ix":11},"r":{"a":1,"k":[{"i":{"x":[0.07],"y":[1.248]},"o":{"x":[0.167],"y":[0.167]},"t":0,"s":[-56]},{"i":{"x":[0.833],"y":[0.833]},"o":{"x":[0.719],"y":[0.172]},"t":38,"s":[-38]},{"t":72,"s":[-56]}],"ix":10},"p":{"s":true,"x":{"a":1,"k":[{"i":{"x":[0.07],"y":[1.032]},"o":{"x":[0.167],"y":[0.167]},"t":0,"s":[1720]},{"i":{"x":[0.833],"y":[0.833]},"o":{"x":[0.719],"y":[0.022]},"t":38,"s":[1544]},{"t":72,"s":[1720]}],"ix":3},"y":{"a":1,"k":[{"i":{"x":[0.07],"y":[1.034]},"o":{"x":[0.167],"y":[0.167]},"t":0,"s":[4069]},{"i":{"x":[0.833],"y":[0.833]},"o":{"x":[0.719],"y":[0.024]},"t":38,"s":[3872]},{"t":72,"s":[4069]}],"ix":4}},"a":{"a":0,"k":[164.438,1433.781,0],"ix":1,"l":2},"s":{"a":0,"k":[100,100,100],"ix":6,"l":2}},"ao":0,"shapes":[{"ty":"gr","it":[{"d":1,"ty":"el","s":{"a":0,"k":[3079.125,4685.989],"ix":2},"p":{"a":0,"k":[0,0],"ix":3},"nm":"Ellipse Path 1","mn":"ADBE Vector Shape - Ellipse","hd":false},{"ty":"st","c":{"a":0,"k":[0.305882352941,0.309803921569,0.321568627451,1],"ix":3},"o":{"a":0,"k":100,"ix":4},"w":{"a":0,"k":4,"ix":5},"lc":1,"lj":1,"ml":4,"bm":0,"nm":"Stroke 1","mn":"ADBE Vector Graphic - Stroke","hd":false},{"ty":"fl","c":{"a":0,"k":[0.882353001015,0.894118006089,0.886274988511,1],"ix":4},"o":{"a":0,"k":100,"ix":5},"r":1,"bm":0,"nm":"Fill 1","mn":"ADBE Vector Graphic - Fill","hd":true},{"ty":"tr","p":{"a":0,"k":[164.438,1481.781],"ix":2},"a":{"a":0,"k":[0,0],"ix":1},"s":{"a":0,"k":[100,100],"ix":3},"r":{"a":0,"k":0,"ix":6},"o":{"a":0,"k":100,"ix":7},"sk":{"a":0,"k":0,"ix":4},"sa":{"a":0,"k":0,"ix":5},"nm":"Transform"}],"nm":"Ellipse 1","np":3,"cix":2,"bm":0,"ix":1,"mn":"ADBE Vector Group","hd":false}],"ip":0,"op":240,"st":0,"bm":0}],"markers":[]}
+0a1,32
+> {
+>   // Note: Comments are not supported in JSON schema, but android parser is lenient.
+> 
+>   // Maximum DB version supported by this schema
+>   "version" : 31,
+> 
+>   "downgrade_to_30" : [],
+>   "downgrade_to_29" : [],
+>   "downgrade_to_28" : [
+>     "ALTER TABLE favorites RENAME TO temp_favorites;",
+>     "CREATE TABLE favorites(_id INTEGER PRIMARY KEY, title TEXT, intent TEXT, container INTEGER, screen INTEGER, cellX INTEGER, cellY INTEGER, spanX INTEGER, spanY INTEGER, itemType INTEGER, appWidgetId INTEGER NOT NULL DEFAULT - 1, iconPackage TEXT, iconResource TEXT, icon BLOB, appWidgetProvider TEXT, modified INTEGER NOT NULL DEFAULT 0, restored INTEGER NOT NULL DEFAULT 0, profileId INTEGER DEFAULT 0, rank INTEGER NOT NULL DEFAULT 0, options INTEGER NOT NULL DEFAULT 0);",
+>     "INSERT INTO favorites SELECT _id, title, intent, container, screen, cellX, cellY, spanX, spanY, itemType, appWidgetId, iconPackage, iconResource, icon, appWidgetProvider, modified, restored, profileId, rank, options FROM temp_favorites;",
+>     "DROP TABLE temp_favorites;"
+>   ],
+>   "downgrade_to_27" : [
+>     "CREATE TABLE workspaceScreens (_id INTEGER PRIMARY KEY,screenRank INTEGER,modified INTEGER NOT NULL DEFAULT 0)",
+>     "insert into workspaceScreens (_id, screenRank) select screen as _id, screen as screenRank from favorites where container = -100 group by screen order by screen"
+>   ],
+>   // Downgrade from 27 to 26. Empty array indicates, the DB is compatible
+>   "downgrade_to_26" : [],
+>   "downgrade_to_25" : [],
+>   "downgrade_to_24" : [],
+>   "downgrade_to_23" : [],
+>   "downgrade_to_22" : [
+>     "ALTER TABLE favorites RENAME TO temp_favorites;",
+>     "CREATE TABLE favorites(_id INTEGER PRIMARY KEY, title TEXT, intent TEXT, container INTEGER, screen INTEGER, cellX INTEGER, cellY INTEGER, spanX INTEGER, spanY INTEGER, itemType INTEGER, appWidgetId INTEGER NOT NULL DEFAULT - 1, iconPackage TEXT, iconResource TEXT, icon BLOB, appWidgetProvider TEXT, modified INTEGER NOT NULL DEFAULT 0, restored INTEGER NOT NULL DEFAULT 0, profileId INTEGER DEFAULT 0, rank INTEGER NOT NULL DEFAULT 0);",
+>     "INSERT INTO favorites SELECT _id, title, intent, container, screen, cellX, cellY, spanX, spanY, itemType, appWidgetId, iconPackage, iconResource, icon, appWidgetProvider, modified, restored, profileId, rank FROM temp_favorites;",
+>     "DROP TABLE temp_favorites;"
+>   ]
+> 
+>   // Missing values indicate the DB is not compatible
+> }
+\ No newline at end of file
+6a7,11
+>     <PreferenceCategory android:title="Ported by">
+>         <Preference android:icon="@drawable/ic_android_version" android:persistent="false" android:title="Ayra Hikari" android:selectable="true" android:key="about_credit01" settings:layout="@layout/arc_card_about">
+>             <intent android:action="android.intent.action.VIEW" android:data="https://t.me/AyraProject" />
+>         </Preference>
+>     </PreferenceCategory>
+394,395d393
+<     invoke-virtual {p2, p1, v0, p0}, Landroid/content/ContentResolver;->registerContentObserver(Landroid/net/Uri;ZLandroid/database/ContentObserver;)V
+< 
+0a1,33
+> .class public final Layra/project/AyraFeatures;
+> .super Ljava/lang/Object;
+> .source "AyraFeatures.java"
+> 
+> # static fields
+> .field public static final AYRA:I
+> 
+> 
+> # direct methods
+> .method public constructor <init>()V
+>     .locals 0
+> 
+>     .line 1
+>     invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+> 
+>     return-void
+> .end method
+> 
+> .method public static final enableTaskbar()Z
+>     .locals 1
+> 
+>     const v0, 1
+> 
+>     return v0
+> .end method
+> 
+> .method public static final hasWorkApps()Z
+>     .locals 1
+> 
+>     const v0, 0
+> 
+>     return v0
+> .end method
+619c619
+<     invoke-interface {v0, v1}, Ljava/util/stream/Stream;->anyMatch(Ljava/util/function/Predicate;)Z
+---
+>     invoke-static {}, Layra/project/AyraFeatures;->hasWorkApps()Z
+720,755d719
+<     nop
+< 
+<     .line 242
+<     invoke-static {}, Landroid/os/Process;->myUserHandle()Landroid/os/UserHandle;
+< 
+<     move-result-object v0
+< 
+<     .line 241
+<     invoke-static {v0}, Lcom/android/launcher3/util/ItemInfoMatcher;->ofUser(Landroid/os/UserHandle;)Ljava/util/function/Predicate;
+< 
+<     move-result-object v0
+< 
+<     .line 243
+<     invoke-static {}, Link/kaleidoscope/ParallelSpaceManager;->getInstance()Link/kaleidoscope/ParallelSpaceManager;
+< 
+<     move-result-object v1
+< 
+<     invoke-virtual {v1}, Link/kaleidoscope/ParallelSpaceManager;->getParallelUserHandles()Ljava/util/List;
+< 
+<     move-result-object v1
+< 
+<     .line 242
+<     invoke-static {v1}, Lcom/android/launcher3/util/ItemInfoMatcher;->ofUsers(Ljava/util/Collection;)Ljava/util/function/Predicate;
+< 
+<     move-result-object v1
+< 
+<     invoke-interface {v0, v1}, Ljava/util/function/Predicate;->or(Ljava/util/function/Predicate;)Ljava/util/function/Predicate;
+< 
+<     move-result-object v0
+< 
+<     iput-object v0, p0, Lcom/android/launcher3/allapps/BaseAllAppsContainerView;->mPersonalMatcher:Ljava/util/function/Predicate;
+< 
+<     .line 244
+<     iget-object v0, p0, Lcom/android/launcher3/allapps/BaseAllAppsContainerView;->mWorkManager:Lcom/android/launcher3/allapps/WorkProfileManager;
+< 
+<     invoke-virtual {v0}, Lcom/android/launcher3/allapps/WorkProfileManager;->updateMatcher()V
+139,222d138
+<     monitor-enter p0
+< 
+<     .line 85
+<     :try_start_0
+<     new-instance v0, Landroid/util/LongSparseArray;
+< 
+<     invoke-direct {v0}, Landroid/util/LongSparseArray;-><init>()V
+< 
+<     iput-object v0, p0, Lcom/android/launcher3/pm/UserCache;->mUsers:Landroid/util/LongSparseArray;
+< 
+<     .line 86
+<     new-instance v0, Landroid/util/ArrayMap;
+< 
+<     invoke-direct {v0}, Landroid/util/ArrayMap;-><init>()V
+< 
+<     iput-object v0, p0, Lcom/android/launcher3/pm/UserCache;->mUserToSerialMap:Landroid/util/ArrayMap;
+< 
+<     .line 87
+<     iget-object v0, p0, Lcom/android/launcher3/pm/UserCache;->mUserManager:Landroid/os/UserManager;
+< 
+<     invoke-virtual {v0}, Landroid/os/UserManager;->getUserProfiles()Ljava/util/List;
+< 
+<     move-result-object v0
+< 
+<     .line 88
+<     invoke-static {}, Link/kaleidoscope/ParallelSpaceManager;->getInstance()Link/kaleidoscope/ParallelSpaceManager;
+< 
+<     move-result-object v1
+< 
+<     invoke-virtual {v1}, Link/kaleidoscope/ParallelSpaceManager;->getParallelUserHandles()Ljava/util/List;
+< 
+<     move-result-object v1
+< 
+<     invoke-interface {v0, v1}, Ljava/util/List;->addAll(Ljava/util/Collection;)Z
+< 
+<     .line 89
+<     if-eqz v0, :cond_0
+< 
+<     .line 90
+<     invoke-interface {v0}, Ljava/util/List;->iterator()Ljava/util/Iterator;
+< 
+<     move-result-object v0
+< 
+<     :goto_0
+<     invoke-interface {v0}, Ljava/util/Iterator;->hasNext()Z
+< 
+<     move-result v1
+< 
+<     if-eqz v1, :cond_0
+< 
+<     invoke-interface {v0}, Ljava/util/Iterator;->next()Ljava/lang/Object;
+< 
+<     move-result-object v1
+< 
+<     check-cast v1, Landroid/os/UserHandle;
+< 
+<     .line 91
+<     iget-object v2, p0, Lcom/android/launcher3/pm/UserCache;->mUserManager:Landroid/os/UserManager;
+< 
+<     invoke-virtual {v2, v1}, Landroid/os/UserManager;->getSerialNumberForUser(Landroid/os/UserHandle;)J
+< 
+<     move-result-wide v2
+< 
+<     .line 92
+<     iget-object v4, p0, Lcom/android/launcher3/pm/UserCache;->mUsers:Landroid/util/LongSparseArray;
+< 
+<     invoke-virtual {v4, v2, v3, v1}, Landroid/util/LongSparseArray;->put(JLjava/lang/Object;)V
+< 
+<     .line 93
+<     iget-object v4, p0, Lcom/android/launcher3/pm/UserCache;->mUserToSerialMap:Landroid/util/ArrayMap;
+< 
+<     invoke-static {v2, v3}, Ljava/lang/Long;->valueOf(J)Ljava/lang/Long;
+< 
+<     move-result-object v2
+< 
+<     invoke-virtual {v4, v1, v2}, Landroid/util/ArrayMap;->put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+< 
+<     .line 94
+<     goto :goto_0
+< 
+<     .line 96
+<     :cond_0
+<     monitor-exit p0
+< 
+225,234d140
+< 
+<     .line 96
+<     :catchall_0
+<     move-exception v0
+< 
+<     monitor-exit p0
+<     :try_end_0
+<     .catchall {:try_start_0 .. :try_end_0} :catchall_0
+< 
+<     throw v0
+41d40
+<     iget-object v0, p0, Lcom/android/launcher3/quickspace/views/OmniJawsClient$OmniJawsSettingsObserver;->this$0:Lcom/android/launcher3/quickspace/views/OmniJawsClient;
+43,66d41
+<     invoke-static {v0}, Lcom/android/launcher3/quickspace/views/OmniJawsClient;->-$$Nest$fgetmContext(Lcom/android/launcher3/quickspace/views/OmniJawsClient;)Landroid/content/Context;
+< 
+<     move-result-object v0
+< 
+<     invoke-virtual {v0}, Landroid/content/Context;->getContentResolver()Landroid/content/ContentResolver;
+< 
+<     move-result-object v0
+< 
+<     const-string v1, "omnijaws_weather_icon_pack"
+< 
+<     invoke-static {v1}, Landroid/provider/Settings$System;->getUriFor(Ljava/lang/String;)Landroid/net/Uri;
+< 
+<     move-result-object v1
+< 
+<     const/4 v2, 0x0
+< 
+<     const/4 v3, -0x1
+< 
+<     invoke-virtual {v0, v1, v2, p0, v3}, Landroid/content/ContentResolver;->registerContentObserver(Landroid/net/Uri;ZLandroid/database/ContentObserver;I)V
+< 
+<     .line 166
+<     invoke-virtual {p0}, Lcom/android/launcher3/quickspace/views/OmniJawsClient$OmniJawsSettingsObserver;->update()V
+< 
+<     .line 167
+737,810d736
+<     if-eqz v0, :cond_3
+< 
+<     .line 495
+<     iget-object v0, p0, Lcom/android/launcher3/quickspace/views/OmniJawsClient;->mContext:Landroid/content/Context;
+< 
+<     invoke-virtual {v0}, Landroid/content/Context;->getContentResolver()Landroid/content/ContentResolver;
+< 
+<     move-result-object v0
+< 
+<     const/4 v1, -0x2
+< 
+<     const-string v2, "omnijaws_weather_icon_pack"
+< 
+<     invoke-static {v0, v2, v1}, Landroid/provider/Settings$System;->getStringForUser(Landroid/content/ContentResolver;Ljava/lang/String;I)Ljava/lang/String;
+< 
+<     move-result-object v0
+< 
+<     .line 497
+<     if-nez v0, :cond_0
+< 
+<     .line 498
+<     invoke-direct {p0}, Lcom/android/launcher3/quickspace/views/OmniJawsClient;->loadDefaultIconsPackage()V
+< 
+<     goto :goto_0
+< 
+<     .line 499
+<     :cond_0
+<     iget-object v1, p0, Lcom/android/launcher3/quickspace/views/OmniJawsClient;->mSettingIconPackage:Ljava/lang/String;
+< 
+<     if-eqz v1, :cond_1
+< 
+<     invoke-virtual {v0, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+< 
+<     move-result v1
+< 
+<     if-nez v1, :cond_2
+< 
+<     .line 500
+<     :cond_1
+<     iput-object v0, p0, Lcom/android/launcher3/quickspace/views/OmniJawsClient;->mSettingIconPackage:Ljava/lang/String;
+< 
+<     .line 501
+<     invoke-direct {p0}, Lcom/android/launcher3/quickspace/views/OmniJawsClient;->loadCustomIconPackage()V
+< 
+<     .line 503
+<     :cond_2
+<     :goto_0
+<     iget-object v0, p0, Lcom/android/launcher3/quickspace/views/OmniJawsClient;->mObserver:Ljava/util/List;
+< 
+<     invoke-interface {v0}, Ljava/util/List;->iterator()Ljava/util/Iterator;
+< 
+<     move-result-object v0
+< 
+<     :goto_1
+<     invoke-interface {v0}, Ljava/util/Iterator;->hasNext()Z
+< 
+<     move-result v1
+< 
+<     if-eqz v1, :cond_3
+< 
+<     invoke-interface {v0}, Ljava/util/Iterator;->next()Ljava/lang/Object;
+< 
+<     move-result-object v1
+< 
+<     check-cast v1, Lcom/android/launcher3/quickspace/views/OmniJawsClient$OmniJawsObserver;
+< 
+<     .line 504
+<     invoke-interface {v1}, Lcom/android/launcher3/quickspace/views/OmniJawsClient$OmniJawsObserver;->updateSettings()V
+< 
+<     .line 505
+<     goto :goto_1
+< 
+<     .line 507
+<     :cond_3
+62d61
+<     invoke-virtual {v0, v1, v2, p0, v3}, Landroid/content/ContentResolver;->registerContentObserver(Landroid/net/Uri;ZLandroid/database/ContentObserver;I)V
+62,63d61
+<     invoke-virtual {v0, v1, v2, p0, v3}, Landroid/content/ContentResolver;->registerContentObserver(Landroid/net/Uri;ZLandroid/database/ContentObserver;I)V
+< 
+462c462
+<     invoke-static {v13, v14, v9}, Llineageos/providers/LineageSettings$System;->getInt(Landroid/content/ContentResolver;Ljava/lang/String;I)I
+---
+>     invoke-static {}, Layra/project/AyraFeatures;->enableTaskbar()Z
