@@ -8,6 +8,7 @@ This is ported version of any AOSP Launcher Ports
 # Source Code
 - [SushiLauncher A12L (3.5)](https://github.com/AyraHikari/LauncherPorts/tree/master/SushiLauncher)
 - [SushiLauncher A13 (8.6)](https://github.com/AyraHikari/LauncherPorts/tree/master/SushiLauncher_A13)
+- [Nokia Launcher A13](https://github.com/AyraHikari/LauncherPorts/tree/master/NokiaLauncher)
 
 # Patcher
 This patcher is required to remove uneeded dependencies and unbloat sources
